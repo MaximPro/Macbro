@@ -63,6 +63,7 @@ Folge dem kompletten [SETUP-GUIDE.md](./SETUP-GUIDE.md)
 |----------|-------------|--------|
 | **[awesome-macos-automation.md](./awesome-macos-automation.md)** | Vollständige Library-Liste mit 20+ Repos | 1000+ Zeilen |
 | **[SETUP-GUIDE.md](./SETUP-GUIDE.md)** | Step-by-Step Setup für alle Tools | 800+ Zeilen |
+| **[WOOCOMMERCE-AI-SERVICE.md](./WOOCOMMERCE-AI-SERVICE.md)** | WooCommerce Automation mit lokaler KI | 500+ Zeilen |
 | **[README.md](./README.md)** | Dieser Einstieg | Du bist hier! |
 
 ---
@@ -136,6 +137,17 @@ Folge dem kompletten [SETUP-GUIDE.md](./SETUP-GUIDE.md)
 - Text Templates & Snippets
 - Calendar Automation
 - Email Templates
+```
+
+### Für E-Commerce (NEW! 🔥)
+
+```bash
+# WooCommerce AI Service - 100% lokal, keine Cloud!
+- Email → Automatische Order-Erstellung
+- Lokale KI (Ollama) für intelligentes Parsing
+- Produkt-Matching mit Confidence Scores
+- Rechtsklick auf Email → Order in WooCommerce
+→ Siehe WOOCOMMERCE-AI-SERVICE.md
 ```
 
 ### Für Produktivität
